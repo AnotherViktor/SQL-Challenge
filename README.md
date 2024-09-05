@@ -1,2 +1,2 @@
-# SQL-Challenge
+# SQL_Challenge
 SQL challenge
